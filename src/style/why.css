@@ -1,20 +1,19 @@
-#why{
-    h2 {
+#why h2 {
       text-align: center;
     }
   
-    h3 {
+    #why h3 {
       padding-bottom: 30px;
     }
   
-    ul {
+    #why ul {
       display: flex;
       justify-content: center;
       gap: 50px;
       flex-wrap: wrap;
     }
   
-    li {
+    #why li {
       width: 350px;
       min-height: 142px;
       border-radius: 16px;
@@ -26,9 +25,6 @@
     /* img {
       width: 100px;
     } */
-    margin: 0 auto;
-  }
-
 
   #whyimg {
     width: 100px;
