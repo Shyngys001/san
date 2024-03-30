@@ -91,11 +91,11 @@ hr {
   border: 0;
 }
 
-.close-menu img{
+/* .close-menu img{
   width: 32px;
   height: 32px;
   filter: invert(100);
-}
+} */
 
 .menu {
   display: none;
