@@ -23,10 +23,12 @@
       align-items: center;
     }
   
-    
+    /* img {
+      width: 100px;
+    } */
   }
 
 
   #whyimg {
-    width: 100px;
+    width: 10px;
   }
