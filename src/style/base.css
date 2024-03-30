@@ -171,6 +171,11 @@ hr {
   p, a {
     font-size: 14px;
   }
+  
+  .close-menu {
+    width: 60px;
+    height: 60px;
+  }
 }
 
 .parent-category,  .category, .all-products{
