@@ -36,7 +36,7 @@ header nav ul li a {
   font-weight: 600;
 }
 
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 820px) {
   header nav {
     display: none;
   }
